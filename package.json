@@ -1,0 +1,22 @@
+{
+  "name": "tslint-config",
+  "version": "1.0.0",
+  "description": "Common TSLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiazhuo-fang/tslint-config.git"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "jiazhuo.fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiazhuo-fang/tslint-config/issues"
+  },
+  "homepage": "https://github.com/jiazhuo-fang/tslint-config#readme"
+}
