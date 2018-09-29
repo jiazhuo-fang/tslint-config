@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config",
+  "name": "dely-tslint-config",
   "version": "1.0.0",
   "description": "Common TSLint Config",
   "main": "index.js",
